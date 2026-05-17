@@ -76,7 +76,7 @@ export function Hero() {
           playsInline
           className="w-full h-full object-cover"
         >
-          <source src="/hero-video.mp4" type="video/mp4" />
+          <source src="/my_demo__up_restaurant/hero-video.mp4" type="video/mp4" />
         </video>
         <div className="absolute inset-0 bg-gradient-to-r from-ink/90 via-ink/40 to-ink/70" />
       </motion.div>
@@ -209,7 +209,7 @@ export function Story() {
             transition={{ delay: 0.3 }}
             className="text-mist leading-relaxed text-[0.95rem] mb-6 max-w-[440px]"
           >
-            Maison Ardent was born from a single conviction: that the oldest cooking method — fire — is still the most revelatory. Every dish begins at the hearth, where smoke, heat, and time transform the finest local ingredients into something extraordinary.
+            Maison Ardent was born from a single conviction: that the oldest cooking method — fire — is still the most revelatory. Every dish begins at the hearth, where smoke, heat, and time[...]
           </motion.p>
 
           <motion.p
